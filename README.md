@@ -5,7 +5,7 @@ Saya berasal dari **PRAMBANAN, KLATEN**.<br>
 
 Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
  
-Jangan lupa follow akun instagram saya [kiwkiw](https://www.instagram.com/andreanbp__/)
+Jangan lupa follow akun instagram saya [andreanbp__](https://www.instagram.com/andreanbp__/)
  
 ### Github Statistic
 <p align="left">
