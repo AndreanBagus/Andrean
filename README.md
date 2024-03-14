@@ -1,10 +1,3 @@
-<!-- YORU BANNER -->
-<div align="center">
-   <a href="#--------">
-      <img src="assets/yoru-banner.png" alt="Home Preview">
-   </a>
-</div>
-
 # Halo Kawan Kawan 
  
 Nama Saya **ANDREAN BAGUS PRASETYA**.<br>
